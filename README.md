@@ -20,6 +20,10 @@ This is correlation for each attribute in student performance data, target of pr
 For prediction target, Machine Learning Algorithm used Linear Regression Model with accuracy score 89%, Mean Absolute Error on 0.84, Mean Squared Error on 1.66 and Root Mean Squared Error on 0.91
 
 ### Visualization
-![](https://github.com/Bayunova28/Student_Performance/blob/main/images/qw.png)
+![](https://github.com/Bayunova28/Student_Performance/blob/main/images/78.png)
 
-On the picture above, there are 2 school type of student performance. In fact, the most school type on case is GP rather than MS
+On the picture above, there are 2 gender based on school type of student performance. In fact, the most gender based on school type GP and MS is female rather than male
+
+![](https://github.com/Bayunova28/Student_Performance/blob/main/images/__results___38_0.png)
+
+On the picture above, there are 2 gender based on 4 reason of student performance. In fact, the most gender based on 4 reason like course, home, other and reputation is female rather than male
